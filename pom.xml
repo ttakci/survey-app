@@ -7,7 +7,7 @@
 	<packaging>pom</packaging>
 	
 	<properties>
-        <spring.version>4.2.0.RELEASE</spring.version>
+        <spring.version>4.2.8.RELEASE</spring.version>
         <spring-security.version>4.0.2.RELEASE</spring-security.version>
         <spring-data-jpa.version>1.8.2.RELEASE</spring-data-jpa.version>
         <hibernate.version>4.3.11.Final</hibernate.version>
@@ -19,6 +19,7 @@
         <logback.version>1.1.3</logback.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
+        <spring-hateos.version>0.21.0.RELEASE</spring-hateos.version>
     </properties>
 
 	<parent>
